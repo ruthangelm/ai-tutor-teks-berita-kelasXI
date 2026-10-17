@@ -1,0 +1,51 @@
+Fonologi adalah cabang ilmu bahasa (linguistik) yang mempelajari, menganalisis, dan membicarakan runtutan bunyi-bunyi bahasa. Secara etimologi, kata ini berasal dari gabungan kata fone (bunyi) dan logos (ilmu). Dalam tataran linguistik, fonologi berfokus pada bagaimana suara dibentuk, disalurkan, dan diterima, serta bagaimana bunyi tersebut berfungsi dalam membentuk makna kata.
+
+Dua Cabang Utama Fonologi
+Fonologi terbagi menjadi dua subdisiplin utama berdasarkan sudut pandangnya terhadap bunyi bahasa:
+1. Fonetik
+Fonetik mempelajari bunyi bahasa dari sudut fisik atau mekanismenya, tanpa memperhatikan apakah bunyi tersebut membedakan makna atau tidak. Fonetik terbagi lagi menjadi tiga jenis:
+•	Fonetik artikulatoris: Mempelajari bagaimana alat ucap manusia (seperti lidah, bibir, dan pita suara) menghasilkan bunyi bahasa.
+•	Fonetik akustik: Mempelajari bunyi bahasa berdasarkan sifat-sifat fisiknya sebagai gelombang suara di udara (seperti frekuensi, amplitudo, dan intensitas).
+•	Fonetik auditoris: Mempelajari bagaimana mekanisme telinga dan otak manusia menerima serta mempersepsikan bunyi bahasa.
+
+2. Fonemik
+Fonemik mempelajari bunyi bahasa dengan memperhatikan fungsinya sebagai pembeda makna. Fokus utamanya adalah menemukan dan menganalisis fonem, yaitu satuan bunyi terkecil dalam bahasa yang mampu membedakan makna kata.
+
+Konsep Dasar dan Istilah Penting
+Untuk memahami fonologi secara menyeluruh, terdapat beberapa konsep kunci yang wajib diketahui:
+Fon, Fonem, dan Alofon
+•	Fon: Bunyi bahasa secara umum yang dihasilkan alat ucap manusia sebelum dianalisis fungsi pembeda maknanya.
+•	Fonem: Satuan bunyi terkecil yang membedakan makna. Misalnya, perbedaan bunyi /p/ dan /b/ pada kata pala dan bala membuktikan bahwa /p/ dan /b/ adalah dua fonem berbeda dalam bahasa Indonesia.
+•	Alofon: Varian pelaksanaan dari suatu fonem karena pengaruh lingkungan bunyi di sekitarnya. Contohnya, fonem /k/ pada kata kapas diucapkan jelas sebagai bunyi artikulasi velar, sedangkan fonem /k/ pada akhir kata bapak diucapkan sebagai bunyi hambat glotal (meletup tanpa pelepasan penuh).
+
+Pasangan Minimal (Minimal Pair)
+Metode utama untuk menentukan apakah dua bunyi merupakan fonem yang berbeda adalah dengan mencari pasangan minimal. Pasangan minimal adalah dua kata yang memiliki urutan bunyi yang sama persis, kecuali pada satu posisi bunyi saja. Jika perbedaan satu bunyi tersebut mengubah makna kata, maka bunyi tersebut dikategorikan sebagai fonem yang berbeda (seperti makan dan makan-an, atau darat dan jarat).
+
+Klasifikasi Bunyi Bahasa
+Bunyi-bunyi bahasa yang dihasilkan oleh alat ucap manusia dikelompokkan menjadi dua kategori utama:
+1. Vokal
+Vokal adalah bunyi bahasa yang dihasilkan tanpa adanya rintangan pada arus udara di atas glotis. Udara keluar secara bebas dari paru-paru melalui rongga mulut atau hidung. Vokal dibedakan berdasarkan:
+•	Tinggi rendahnya posisi lidah (misalnya vokal tinggi /i/, /u/, atau vokal rendah /a/).
+•	Maju mundurnya lidah (vokal depan, tengah, atau belakang).
+•	Bentuk bibir saat mengucapkannya (bulat atau tak bulat).
+
+2. Konsonan
+Konsonan adalah bunyi bahasa yang dihasilkan dengan cara menghambat arus udara yang keluar dari paru-paru pada titik tertentu di alat ucap. Klasifikasi konsonan ditentukan oleh:
+•	Cara artikulasi: Bagaimana arus udara dihambat (misalnya hambat/plosif, geseran/frikatif, getar, atau hidung/nasal).
+•	Tempat artikulasi: Lokasi terjadinya hambatan (misalnya bilabial/dua bibir, alveolar/gusi, velar/langit-langit lembut).
+•	Keadaan pita suara: Bergetar (konsonan bersuara) atau tidak bergetar (konsonan tak bersuara).
+
+Unsur Suprasegmental
+Selain bunyi segmental (vokal dan konsonan yang dapat dipisahkan secara linier), fonologi juga mempelajari unsur suprasegmental, yaitu fitur bunyi yang menyertai bunyi segmental dan tidak dapat dipisahkan secara fisik:
+•	Tekanan (Stres): Keras atau lembutnya pengucapan suatu suku kata.
+•	Nada (Intonasi): Tinggi rendahnya pitch suara saat menuturkan kalimat atau kata, yang dapat mengubah fungsi kalimat (misalnya kalimat berita, perintah, atau tanya).
+•	Jeda (Persetujuan/Pause): Hentian sebentar dalam tuturan yang membatasi satuan-satuan makna.
+•	Tempo/Durasi: Panjang pendeknya waktu yang digunakan untuk menuturkan suatu bunyi atau suku kata.
+
+Proses-Proses Fonologis
+Dalam pertuturan nyata, bunyi-bunyi bahasa sering kali mengalami perubahan akibat pengaruh bunyi di sekitarnya. Perubahan ini dinamakan proses fonologis, antara lain:
+•	Asimilasi: Perubahan bunyi sehingga menjadi mirip atau sama dengan bunyi di dekatnya.
+•	Disimilasi: Perubahan bunyi yang sama menjadi berbeda untuk mempermudah pengucapan.
+•	Mulathesis: Perubahan urutan posisi fonem dalam suatu kata.
+•	Pelesapan (Elesi): Hilangnya suatu bunyi pada awal, tengah, atau akhir kata demi efisiensi pengucapan.
+

@@ -1,0 +1,60 @@
+Kelas kata (sering disebut juga kategori sintaksis atau bagian dari tutur/ part of speech) adalah pengelompokan kata-kata dalam suatu bahasa berdasarkan kesamaan bentuk, fungsi, dan maknanya dalam struktur kalimat.
+Dalam bahasa Indonesia, pembagian kelas kata mengacu pada sifat-sifat morfologis (bagaimana kata itu dibentuk) dan sintaksis (bagaimana kata itu beroperasi dalam kalimat).
+
+Pembagian Kelas Kata Utama
+Secara garis besar, kelas kata dalam bahasa Indonesia dikelompokkan menjadi dua golongan besar, yaitu kata utama (kata konten) yang memiliki makna leksikal tersendiri dan dapat berdiri sendiri, serta kata tugas yang berfungsi menghubungkan atau memperjelas hubungan antarunsur dalam kalimat.
+A. Kata Utama (Kata Konten)
+Kata utama adalah kata-kata yang mengandung makna substantif dan jumlahnya terus berkembang seiring perkembangan zaman (open class).
+1. Verba (Kata Kerja)
+Verba adalah kata yang menyatakan perbuatan, tindakan, proses, atau keadaan yang bukan merupakan sifat.
+•	Ciri-ciri: Dapat didampingi kata tidak (misalnya tidak lari), dapat diberi kata bantu aspek seperti sedang, akan, atau telah (sedang makan), serta umumnya berfungsi sebagai predikat dalam kalimat.
+•	Contoh: menulis, membaca, tidur, terjatuh, belajar.
+2. Nomina (Kata Benda)
+Nomina adalah kata yang mengacu pada manusia, hewan, benda, konsep, atau pengertian abstrak.
+•	Ciri-ciri: Dapat didampingi kata bukan (misalnya bukan buku), dapat diikuti oleh kata sifat dengan perantara kata yang (buku yang tebal), serta tidak dapat digabungkan langsung dengan kata ingkar tidak. Nomina umumnya menduduki fungsi subjek atau objek.
+•	Contoh: rumah, guru, keadilan, kucing, gagasan.
+3. Adjektiva (Kata Sifat)
+Adjektiva adalah kata yang mengungkapkan kualitas, keadaan, atau sifat dari nomina atau pronomina.
+•	Ciri-ciri: Dapat didampingi kata penguat seperti sangat, amat, terlalu, atau paling (sangat tinggi, paling indah), serta dapat dibentuk menjadi konstruksi se- + kata + -nya (sebaik-baiknya).
+•	Contoh: bersih, ramah, tinggi, gelap, pINTAR.
+4. Adverbia (Kata Keterangan)
+Adverbia adalah kata yang memberi keterangan pada kata lain yang bukan nomina, seperti verba, adjektiva, atau keseluruhan kalimat.
+•	Ciri-ciri: Posisinya relatif bebas dalam kalimat dan berfungsi memberikan rincian waktu, cara, tempat, atau derajat.
+•	Contoh: sangat, selalu, kemarin, dengan cepat, mungkin.
+5. Pronomina (Kata Ganti)
+Pronomina adalah kata yang digunakan untuk menggantikan nomina atau frasa nomina agar tidak terjadi pengulangan kata yang sama.
+•	Jenis-jenis:
+o	Pronomina Persona (orang): saya, kamu, dia, mereka.
+o	Pronomina Penunjuk: ini, itu.
+o	Pronomina Penanya: apa, siapa, mana.
+o	Pronomina Penanya/Penyambung: yang.
+6. Numeralia (Kata Bilangan)
+Numeralia adalah kata yang digunakan untuk menghitung jumlah kuantitas objek (orang, hewan, atau benda) atau menunjukkan urutannya.
+•	Jenis-jenis:
+o	Numeralia Utama (Tentu): satu, dua, seribu.
+o	Numeralia Tak Tentu: beberapa, semua, banyak.
+o	Numeralia Tingkat: pertama, kedua, ketiga.
+
+B. Kata Tugas
+Kata tugas adalah kelompok kata yang tidak memiliki makna leksikal yang mandiri, tetapi memiliki makna gramatikal ketika dihubungkan dengan kata lain dalam kalimat (closed class).
+1. Preposisi (Kata Depan)
+Kata yang berada di depan nomina atau pronomina untuk menghubungkannya dengan kata lain dalam kalimat, biasanya menunjukkan hubungan ruang, waktu, atau arah.
+•	Contoh: di, ke, dari, pada, mengenai.
+2. Konjungsi (Kata Hubung)
+Kata yang berfungsi menghubungkan dua satuan bahasa yang sederajat atau tidak sederajat (kata dengan kata, frasa dengan frasa, klausa dengan klausa, atau antarparagraf).
+•	Contoh: dan, atau, tetapi, karena, sehingga, meskipun.
+3. Interjeksi (Kata Seru)
+Kata yang digunakan untuk mengungkapkan perasaan atau emosi pembicara secara spontan, seperti kagum, kaget, marah, atau sedih.
+•	Contoh: wah, aduh, amboi, kasihan, astaga.
+4. Artikula (Kata Sandang)
+Kata tugas yang membatasi atau mendampingi nomina dan tidak memiliki makna mandiri.
+•	Contoh: si (untuk orang), sang (untuk sosok yang dihormati), yang.
+5. Partikel Penegas
+Kata tugas yang berfungsi memberikan penekanan atau memperjelas bagian kalimat tertentu.
+•	Contoh: -lah, -kah, -pun, tah.
+
+Kriteria Penentuan Kelas Kata
+Untuk menentukan kelas dari suatu kata secara tepat, para ahli linguistik menggunakan tiga kriteria utama:
+•	Kriteria Semantis: Dilihat berdasarkan makna teoretis yang dikandung kata tersebut (misalnya verba bermakna perbuatan, nomina bermakna benda).
+•	Kriteria Morfologis: Dilihat berdasarkan imbuhan (afiks) yang dapat melekat pada kata tersebut. Misalnya, kata yang dapat diberi imbuhan me-kan atau ber- umumnya tergolong verba.
+•	Kriteria Sintaksis: Dilihat berdasarkan perilaku kata tersebut saat diletakkan di dalam struktur kalimat atau berdampingan dengan kata penanda tertentu.

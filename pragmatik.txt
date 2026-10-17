@@ -1,0 +1,56 @@
+Pragmatik adalah cabang ilmu bahasa (linguistik) yang mempelajari bagaimana konteks memengaruhi makna tuturan. Berbeda dengan semantik yang mengkaji makna kata atau kalimat secara mandiri dan bebas konteks (makna leksikal atau gramatikal), pragmatik berfokus pada makna pembicara (speaker meaning)—yakni apa yang dimaksudkan oleh penutur ketika mengucapkan suatu kalimat dalam situasi komunikasi tertentu.
+
+Kedudukan Pragmatik dalam Linguistik
+Dalam tatanan ilmu bahasa, pragmatik menempati posisi yang melengkapi cabang linguistik lainnya:
+•	Morfologi: Mempelajari struktur internal kata.
+•	Sintaksis: Mempelajari hubungan antarkata dalam membentuk kalimat.
+•	Semantik: Mempelajari makna literal atau denotatif dari kata dan kalimat.
+•	Pragmatik: Mempelajari maksud atau makna yang tersirat dari tuturan berdasarkan konteks pemakaiannya.
+
+Konsep-Konsep Utama dalam Pragmatik
+Untuk memahami pragmatik secara komprehensif, terdapat beberapa teori dan konsep dasar yang menjadi pilar kajiannya:
+1. Deiksis
+Deiksis adalah kata atau frasa yang maknanya berubah-ubah tergantung pada siapa yang mengucapkannya, kepada siapa ditujukan, serta kapan dan di mana tuturan itu disampaikan. Istilah ini berasal dari kata Yunani yang berarti "menunjukkan". Jenis-jenis deiksis meliputi:
+•	Deiksis Persona: Kata ganti orang yang bergantung pada peran dalam komunikasi (saya, kamu, dia, mereka).
+•	Deiksis Tempat/Spasial: Lokasi relatif terhadap penutur (di sini, di situ, ke sana).
+•	Deiksis Waktu/Temporal: Waktu relatif terhadap saat tuturan diucapkan (sekarang, besok, kemarin).
+•	Deiksis Wacana: Acuan pada bagian tertentu dalam teks atau wacana (sebagaimana disebutkan di atas, hal berikut).
+•	Deiksis Sosial: Penanda perbedaan status sosial antara penutur dan mitra tutur (Bapak, Ibu, Yang Mulia, kamu).
+
+2. Tindak Tutur (Speech Acts)
+Teori tindak tutur—yang dipelopori oleh J.L. Austin dan dikembangkan oleh J.R. Searle—menyatakan bahwa ketika seseorang mengucapkan sesuatu, ia tidak hanya menyampaikan kata-kata, tetapi juga melakukan suatu tindakan. Tindak tutur terbagi menjadi tiga tingkatan:
+•	Tindak Lokusi: Tindakan mengucapkan sesuatu dengan arti literal (pernyataan fisik/fonetis dasar).
+•	Tindak Ilokusi: Fungsi atau maksud yang ingin dicapai oleh penutur di balik tuturannya (misalnya memerintah, berjanji, meminta maaf, mengancam, atau menyapa).
+•	Tindak Perlokusi: Efek atau pengaruh yang dihasilkan tuturan tersebut terhadap pendengar (misalnya membuat pendengar merasa takut, tertawa, terhibur, atau melakukan sesuatu).
+
+Berdasarkan fungsi ilokusinya, Searle membagi tindak tutur menjadi lima kategori:
+•	Asertif: Mengikat penutur pada kebenaran proposisi (misalnya menyatakan, melaporkan, mengklaim).
+•	Direktif: Bertujuan membuat pendengar melakukan sesuatu (misalnya memohon, menyuruh, menasihati).
+•	Komisif: Mengikat penutur untuk melakukan tindakan di masa depan (misalnya berjanji, bersumpah, menawarkan).
+•	Ekspresif: Mengungkapkan sikap psikologis penutur (misalnya mengucapkan terima kasih, menyelamati, meminta maaf).
+•	Deklaratif: Perkataan yang mengubah keadaan atau realitas secara langsung (misalnya memecat, meresmikan, membaptis).
+
+3. Implikatur Percakapan
+Implikatur adalah makna tersirat yang ingin disampaikan oleh penutur, yang berbeda dari makna literal yang diucapkan. Teori ini dikembangkan oleh H.P. Grice untuk menjelaskan bagaimana pendengar dapat memahami maksud penutur meskipun ucapan tersebut tidak disampaikan secara langsung.
+
+4. Prinsip Kerja Sama dan Maksim Percakapan
+Grice merumuskan bahwa agar percakapan berjalan lancar, para peserta tutur umumnya mematuhi Prinsip Kerja Sama (Cooperative Principle) melalui empat maksim percakapan:
+•	Maksim Kuantitas: Berikan informasi sejujurnya sesuai kebutuhan—tidak terlalu sedikit dan tidak berlebihan.
+•	Maksim Kualitas: Katakan hal yang benar dan didukung oleh bukti yang cukup; jangan mengatakan hal yang diyakini salah.
+•	Maksim Relevansi/Hubungan: Buatlah tuturan yang relevan dengan topik pembicaraan.
+•	Maksim Cara: Sampaikan tuturan secara jelas, singkat, teratur, dan tidak ambigu.
+Ketika seseorang secara sengaja melanggar (flouting) suatu maksim tanpa berniat berbohong, hal itu biasanya melahirkan implikatur.
+
+5. Presuposisi (Prakira)
+Presuposisi adalah asumsi atau praanggapan dasar yang dimiliki penutur sebelum ia menyampaikan suatu tuturan. Presuposisi ini dianggap sudah diketahui dan diterima kebenarannya oleh pendengar. Contohnya, tuturan "Adik Budi sudah sembuh" memiliki presuposisi bahwa Budi memiliki adik dan adiknya sempat sakit.
+
+6. Kesantunan Pragmatik (Politeness)
+Kajian tentang bagaimana orang menggunakan bahasa untuk menjaga hubungan sosial dan menghargai "muka" (face) atau harga diri mitra tutur. Teori kesantunan (seperti teori Penelope Brown dan Stephen Levinson, atau Robin Lakoff) mempelajari strategi tutur langsung vs. tidak langsung guna meminimalkan potensi ancaman terhadap harga diri seseorang (Face Threatening Acts).
+
+Peran Konteks dalam Pragmatik
+Pragmatik sangat bergantung pada konteks, yaitu seluruh latar belakang pengetahuan yang dimiliki bersama oleh penutur dan pendengar. Konteks mencakup:
+•	Konteks Fisik: Tempat, situasi, waktu, dan objek yang ada di sekitar tempat tuturan berlangsung.
+•	Konteks Linguistik (Konteks Teks/Kotekstual): Rangkaian kata atau kalimat yang mendahului atau mengikuti tuturan tersebut.
+•	Konteks Sosial: Hubungan kemasyarakatan, status, norma, dan hirarki antarpartisipan tutur.
+•	Konteks Epistemik: Pengetahuan dasar dan latar belakang kepercayaan yang sama-sama dimiliki oleh penutur dan pendengar.
+

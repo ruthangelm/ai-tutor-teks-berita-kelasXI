@@ -1,0 +1,42 @@
+Leksikologi adalah cabang ilmu bahasa (linguistik) yang mempelajari leksem, struktur leksikal, serta keseluruhan kosa kata (leksikon) suatu bahasa. Kata leksikologi berasal dari bahasa Yunani, yaitu lexis (kata atau ucapan) dan logos (ilmu). Jika fonologi berfokus pada bunyi bahasa, maka leksikologi berfokus pada makna, sifat, bentuk, asal-usul, dan hubungan antarkata dalam sistem kosa kata.
+
+Leksikologi sering dikaitkan dengan cabang linguistik lainnya, terutama:
+•	Leksikografi: Leksikologi adalah ilmu teoretisnya, sedangkan leksikografi adalah ilmu terapan mengenai teknik penyusunan kamus. Leksikologi menyediakan landasan teori tentang makna dan bentuk kata yang kemudian diterapkan oleh leksikograf dalam menyusun entri kamus.
+•	Semantik: Leksikologi sangat erat kaitannya dengan semantik karena studi tentang leksikon tidak lepas dari kajian makna kata (semantik leksikal).
+•	Morfologi: Leksikologi beririsan dengan morfologi dalam hal pembentukan kata baru melalui proses seperti afiksasi, reduplikasi, dan pemajemukan.
+
+Konsep Dasar: Leksem dan Kata
+Dalam leksikologi, penting untuk membedakan antara kata dan leksem:
+•	Leksem: Satuan abstrak terkecil dalam leksikon suatu bahasa yang mendasari berbagai bentuk kata. Leksem merupakan unit dasar makna yang biasanya menjadi entri utama (kata dasar) di dalam kamus. Sebagai contoh, lari adalah sebuah leksem.
+•	Kata (Bentuk Kata): Wujud konkret dari leksem yang telah mengalami proses gramatikal sesuai konteks kalimat. Dari leksem lari, terbentuk berbagai kata seperti berlari, melarikan, pari-lari, dan berlarian.
+
+Ruang Lingkup Kajian Leksikologi
+Leksikologi mencakup beberapa fokus kajian utama yang membentuk pemahaman utuh tentang kosa kata:
+1. Semantik Leksikal
+Mengkaji makna yang melekat pada leksem secara mandiri di luar konteks kalimat utuh (makna leksikal). Di dalamnya dipelajari pula hubungan makna (relasi makna) antarleksem, seperti:
+•	Sinonimi: Hubungan kemiripan makna antara dua leksem atau lebih (misalnya bisa dan dapat).
+•	Antonimi: Hubungan pertentangan makna (misalnya besar dan kecil).
+•	Hiponimi dan Hipernimi: Hubungan hirarki makna, di mana hiponim merupakan bawahan dari hipernim (misalnya mawar adalah hiponim dari bunga).
+•	Polisemi: Satu leksem yang memiliki beberapa makna yang masih saling berkaitan secara logis (misalnya kata kepala untuk bagian tubuh, pemimpin, atau bagian atas benda).
+•	Homonimi: Dua kata atau lebih yang bentuk ejaan atau lafalnya sama tetapi maknanya berbeda sama sekali dan berasal dari asal-usul yang tidak berhubungan (misalnya bisa sebagai sanggup dan bisa sebagai racun ular).
+
+2. Pembentukan Kata (Leksikalisasi)
+Mempelajari mekanisme munculnya leksem-leksem baru dalam suatu bahasa. Pembentukan ini dapat terjadi melalui:
+•	Afiksasi: Penambahan imbuhan pada kata dasar.
+•	Pemajemukan (Komposisi): Penggabungan dua leksem atau lebih yang menghasilkan makna baru (misalnya matahari atau rumah sakit).
+•	Singkatan dan Akronim: Pemendekan bentuk kata atau rangkaian kata.
+•	Analogi dan Pergeseran Makna: Pembentukan bentuk baru berdasarkan pola yang sudah ada.
+
+3. Etimologi
+Cabang leksikologi yang menyelidiki asal-usul, sejarah, dan perubahan bentuk serta makna suatu kata dari waktu ke waktu. Melalui etimologi, dapat diketahui apakah suatu kata merupakan kata asli (pribumi) atau merupakan kata serapan dari bahasa asing maupun bahasa daerah.
+
+4. Kajian Kata Serapan (Leksikon Asing/Serapan)
+Menganalisis bagaimana suatu bahasa mengambil kosa kata dari bahasa lain dan menyesuaikannya ke dalam sistem fonologi serta morfologi bahasa penerima. Dalam bahasa Indonesia, leksikon dibentuk oleh perpaduan unsur kata asli Melayu/Nusantara dengan kata serapan dari bahasa Sansekerta, Arab, Belanda, Tionghoa, Inggris, dan bahasa-bahasa daerah.
+
+Struktur dan Jenis Leksikon
+Leksikon dalam suatu bahasa tidak bersifat acak, melainkan terstruktur berdasarkan bidang penggunaan dan fungsi komunikasinya:
+•	Kosa Kata Umum: Leksem yang dipahami dan digunakan oleh seluruh penutur bahasa dalam kehidupan sehari-hari.
+•	Kosa Kata Khusus (Istilah/Jargon): Leksem yang penggunaannya terbatas pada bidang ilmu, profesi, atau kelompok sosial tertentu (misalnya istilah medis, hukum, atau linguistik).
+•	Leksikon Aktif: Kosa kata yang sering dan secara spontan digunakan oleh penutur saat berbicara atau menulis.
+•	Leksikon Pasif: Kosa kata yang dipahami maknanya oleh penutur ketika mendengar atau membacanya, tetapi jarang atau tidak pernah digunakan sendiri dalam pertuturan aktif.
+

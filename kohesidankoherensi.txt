@@ -1,0 +1,41 @@
+Kohesi dan koherensi adalah dua kriteria utama yang menentukan keutuhan dan keterpaduan suatu wacana atau teks. Keduanya memastikan bahwa sekumpulan kalimat tidak berdiri sendiri secara terpisah, melainkan terjalin menjadi satu kesatuan makna yang utuh dan logis.
+Meskipun sering dibahas bersamaan, kohesi merujuk pada keterpaduan bentuk fisik/kebahasaan, sedangkan koherensi merujuk pada keterpaduan makna atau jalinan gagasan.
+
+1. Kohesi (Kepaduan Bentuk)
+Kohesi adalah keserasian hubungan antarelemen dalam wacana yang ditandai oleh adanya konjungsi, penunjuk, atau penanda linguistik lainnya. Suatu teks dikatakan kohesif jika hubungan antar kata atau kalimatnya terikat secara formal melalui kaidah-kaidah kebahasaan.
+Kohesi umumnya dibagi menjadi dua jenis utama, yaitu kohesi gramatikal dan kohesi leksikal.
+A. Kohesi Gramatikal
+Kohesi gramatikal adalah kepaduan yang dicapai melalui penggunaan struktur tata bahasa. Piranti kohesi gramatikal meliputi:
+•	Pengacuan (Referensi): Penggunaan kata untuk merujuk pada kata atau konstituen lain dalam teks. Referensi bisa bersifat anapora (merujuk ke kata yang sudah disebut sebelumnya) atau katapora (merujuk ke kata yang baru disebut setelahnya). Contohnya penggunaan kata ganti persona (ia, mereka), penunjuk (ini, itu), atau komparatif (sama, berbeda).
+•	Pelesapan (Ellipsis): Penghilangan kata, frasa, atau bagian kalimat yang sebenarnya ada dalam struktur tata bahasa, tetapi disengaja agar tidak terjadi pengulangan yang kaku, dengan asumsi pembaca sudah memahami konteksnya.
+•	Penyulihan (Substitusi): Penggantian unsur bahasa tertentu dengan unsur lain yang memiliki kategori tata bahasa sama demi variasi penulisan.
+•	KATA Penghubung (Konjungsi): Penggunaan kata tugas untuk menghubungkan klausa atau kalimat, seperti konjungsi aditif (dan, serta), adversatif (tetapi, namun), kausalitas (karena, oleh sebab itu), dan temporal (kemudian, setelah itu).
+
+B. Kohesi Leksikal
+Kohesi leksikal adalah kepaduan yang dicapai melalui pemilihan kosa kata atau kata kunci. Piranti kohesi leksikal meliputi:
+•	Pengulangan (Reitasi/Repetisi): Mengulang kata kunci yang sama atau bentuk turunan kata tersebut untuk mempertegas fokus pembicaraan.
+
+•	Sinonimi: Penggunaan kata-kata yang memiliki makna serupa untuk menghindari kebosanan akibat pengulangan kata yang sama persis.
+•	Antonimi: Penggunaan kata-kata yang berlawanan makna untuk memperjelas kontras atau perbandingan.
+•	Hiponimi dan Hipernimi: Penggunaan kata bermakna khusus (hiponim) yang terintegrasi di bawah kata bermakna umum (hipernim).
+•	Kolokasi: Penggunaan kata-kata yang memiliki kecenderungan berdampingan atau berada dalam lingkungan domain/bidang yang sama (seperti kata dokter, pasien, obat, resep dalam konteks medis).
+
+2. Koherensi (Kepaduan Makna)
+Koherensi adalah keterpaduan jalinan gagasan atau jalan pikiran di dalam suatu wacana. Suatu teks dikatakan koheren apabila kalimat-kalimatnya memiliki keterkaitan logis dan sistematis sehingga membentuk satu simpulan atau pemahaman makna yang utuh bagi pembaca.
+Berbeda dengan kohesi yang tampak langsung pada bentuk kebahasaan, koherensi bersifat tersirat (implicit) dan sangat bergantung pada penalaran logis, konteks, serta pemahaman latar belakang (world knowledge) antara penulis dan pembaca.
+
+Unsur-Unsur Pembentuk Koherensi
+Koherensi dibangun melalui pola hubungan logis antargagasan, antara lain:
+•	Hubungan Sebab-Akibat: Suatu peristiwa atau ide dipaparkan sebagai penyebab yang mendasari terjadinya peristiwa atau ide lain.
+•	Hubungan Pertentangan/Konsesif: Pernyataan kedua memberikan kontras atau pengecualian terhadap pernyataan pertama.
+•	Hubungan Urutan Waktu (Kronologis): Gagasan disusun secara runtut berdasarkan tahapan waktu terjadinya suatu peristiwa.
+•	Hubungan Penjelasan/Contoh: Gagasan utama diikuti oleh rinci-rincian konkret, bukti, atau contoh nyata yang relevan.
+•	Hubungan Syarat: Suatu peristiwa baru dapat terjadi apabila kondisi pada ide sebelumnya terpenuhi.
+
+Hubungan antara Kohesi dan Koherensi
+Hubungan antara kedua konsep ini dapat dipahami melalui beberapa poin penting:
+•	Kohesi sebagai alat, Koherensi sebagai tujuan: Kohesi menyediakan sarana kebahasaan (piranti lahiriah) untuk membantu membangun koherensi (kepaduan makna).
+•	Teks kohesif belum tentu koheren: Suatu paragraf bisa saja memiliki banyak kata penghubung dan kata ganti yang runtut (kohesif secara bentuk), tetapi secara alur pikiran tidak masuk akal atau tidak logis (tidak koheren).
+•	Teks koheren bisa terbentuk tanpa piranti kohesi eksplisit: Dalam beberapa kasus tuturan atau tulisan, kalimat-kalimat dapat terjalin secara logis (koheren) meskipun tidak secara tegas dihubungkan oleh kata sambung atau penanda kohesi fisik, selama konteksnya sudah dipahami dengan jelas oleh pembaca.
+Secara ideal, wacana yang berkualitas tinggi harus memenuhi kedua kriteria tersebut secara seimbang: memiliki penanda tata bahasa dan kosa kata yang terikat rapi (kohesif) sekaligus menyampaikan alur penalaran yang logis dan mudah dipahami (koheren).
+

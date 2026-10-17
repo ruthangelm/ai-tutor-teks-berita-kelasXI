@@ -1,0 +1,62 @@
+Konsep dasar bahasa merupakan fondasi utama sebelum mempelajari tatabahasa, sintaksis, maupun penggunaan bahasa Indonesia secara formal.
+
+1. Hakikat & Definisi Bahasa
+Secara terminologi, bahasa adalah sistem lambang bunyi yang arbitrer, yang digunakan oleh anggota masyarakat untuk bekerja sama, berkomunikasi, dan mengidentifikasikan diri.
+Ciri-Ciri Utama Bahasa
+Sistemik & Sistematis: Bahasa memiliki pola atau aturan tertentu yang terstruktur, mulai dari tataran bunyi (fonologi), kata (morfologi), hingga kalimat (sintaksis).
+Arbitrer (Manasuka): Hubungan antara lambang bunyi dengan benda atau konsep yang diwakilinya bersifat bebas dan tidak ada alasan logis yang mutlak. Sebagai contoh, tidak ada alasan khusus mengapa benda tempat duduk dinamakan kursi dan bukan meja—hal tersebut terjadi atas kesepakatan sosial semata.
+Konvensional: Penggunaan lambang bahasa disepakati bersama oleh komunitas penuturnya.
+Dinamis: Bahasa terus berkembang seiring dengan perubahan zaman, sains, dan budaya masyarakatnya.
+Manusiawi: Sistem bahasa alami hanya dimiliki dan dioperasikan oleh manusia secara artikulatif.
+
+2. Fungsi Bahasa
+Fungsi bahasa dapat dibagi menjadi dua kategori utama, yaitu fungsi umum dan fungsi khusus.
+A. Fungsi Umum
+Alat Komunikasi (Tool of Communication): Menyampaikan pesan, pikiran, gagasan, dan perasaan antarindividu.
+Alat Integrasi Sosial (Tool of Social Integration): Alat untuk beradaptasi dan menyatu dalam lingkungan masyarakat.
+Alat Kontrol Sosial (Tool of Social Control): Memengaruhi tingkah laku, norma, dan aturan sosial.
+
+B. Fungsi Khusus (Menurut Roman Jakobson)
+Emotif atau Ekspresif: Mengungkapkan perasaan atau kondisi internal penutur.
+Konatif atau Direktif: Mengatur atau memengaruhi tindakan lawan tutur, seperti perintah atau imbauan.
+Referensial atau Informatif: Menyampaikan gagasan, data, fakta, atau deskripsi objek nyata.
+Fatis (Phatic): Membuka, menyambung, atau memelihara hubungan kontak sosial (contoh: "Halo", "Apa kabar?").
+Metalingual: Menggunakan bahasa untuk menjelaskan bahasa itu sendiri, seperti pada tata bahasa atau kamus.
+Puitis atau Estetis: Menekankan keindahan dan gaya penyampaian pesan, seperti pada karya sastra.
+
+3. Kedudukan & Fungsi Bahasa Indonesia
+Di Indonesia, status bahasa diatur secara tegas dalam undang-undang (UU No. 24 Tahun 2009) serta landasan sejarah nasional.
+A. Bahasa Nasional
+Kedudukan ini berlandaskan sejarah Sumpah Pemuda (28 Oktober 1928). Fungsinya meliputi:
+Lambang kebanggaan nasional.
+Lambang identitas nasional.
+Alat pemersatu antarsuku dan budaya.
+Alat penghubung antardaerah.
+
+B. Bahasa Negara atau Bahasa Resmi
+Kedudukan ini berlandaskan UUD 1945 Bab XV Pasal 36. Fungsinya meliputi:
+Bahasa resmi kenegaraan.
+Bahasa pengantar resmi dalam pendidikan.
+Alat perhubungan tingkat nasional untuk kepentingan perencanaan dan pelaksanaan pembangunan.
+Alat pengembangan kebudayaan, ilmu pengetahuan, dan teknologi.
+
+4. Tataran Linguistik (Struktur Bahasa)
+Bahasa Indonesia dibangun atas beberapa tingkatan atau hierarki analisis linguistik:
+A. Fonologi: Studi tentang bunyi bahasa. Fonologi terbagi menjadi fonetik (pembentukan bunyi tanpa memperhatikan pembeda makna) dan fonemik (bunyi yang berfungsi membedakan makna, seperti perbedaan bunyi /p/ pada kata pola dan /b/ pada kata bola).
+
+B. Morfologi: Studi tentang pembentukan kata dari satuan terkecil berharga (morfem). Contohnya morfem terikat ber- ditambah morfem bebas jalan menjadi berjalan.
+
+C. Sintaksis: Studi tentang tata bentuk kalimat, frasa, dan klausa yang mengatur susunan fungsi seperti Subjek, Predikat, Objek, dan Keterangan (S-P-O-K).
+
+D. Semantik: Studi tentang makna kata dan kalimat, baik makna denotatif, konotatif, leksikal, maupun kontekstual.
+E. Pragmatik: Studi tentang penggunaan bahasa dalam konteks situasi tuturan nyata serta maksud tersembunyi dari suatu tindak tutur.
+
+5. Ragam Bahasa Indonesia
+Ragam bahasa lahir karena variasi penggunaannya berdasarkan konteks, media, dan latar belakang penutur:
+A. Berdasarkan Media: Terdiri atas ragam tulis dan ragam lisan.
+
+B. Berdasarkan Situasi atau Formalitas:
+Ragam Resmi (Formal): Mengikuti kaidah tata bahasa baku serta pedoman ejaan resmi (EYD/PUEBI).
+Ragam Nonformal (Santai): Digunakan dalam komunikasi sehari-hari atau media sosial.
+
+C. Berdasarkan Bidang: Terbagi atas ragam ilmiah, hukum, bisnis, sastra, dan jurnalistik.

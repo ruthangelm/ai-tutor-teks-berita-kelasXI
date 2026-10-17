@@ -1,0 +1,70 @@
+Penyuntingan bahasa (sering disebut juga proofreading atau copyediting) adalah proses memeriksa, membaca ulang, membentulkan, dan menyempurnakan naskah tulisan dari segi tata bahasa, ejaan, pilihan kata, serta struktur kalimat agar sesuai dengan standar dan kaidah kebahasaan yang berlaku.
+Tujuan utama penyuntingan bahasa adalah memastikan teks menjadi komunikatif, efektif, mudah dipahami pembaca, bebas dari kesalahan teknis, serta konsisten secara gaya selingkung.
+
+1. Peran dan Fungsi Penyuntingan Bahasa
+Penyuntingan bahasa memainkan peran kritis dalam siklus penulisan dan penerbitan karya tulis. Fungsi utamanya meliputi:
+•	Meningkatkan Keterbacaan (Readability): Memastikan alur gagasan mengalir dengan mulus sehingga pembaca tidak terganggu oleh struktur kalimat yang kaku atau membingungkan.
+•	Menjaga Aksesibilitas Kebenaran Kaidah: Menjamin naskah tunduk pada standar resmi seperti Ejaan yang Disempurnakan (EYD/PUEBI) serta Kamus Besar Bahasa Indonesia (KBBI).
+•	Menjaga Konsistensi: Memastikan penggunaan istilah, ejaan, tanda baca, dan kapitalisasi bersifat seragam dari awal hingga akhir naskah.
+•	Menghindari Ambiguitas: Memperbaiki susunan kata yang berpotensi memicu makna ganda atau salah penafsiran bagi pembaca.
+
+2. Tingkatan dalam Penyuntingan
+Dalam praktik profesional, kegiatan penyuntingan umumnya terbagi menjadi beberapa tingkatan fokus:
+A. Penyuntingan Mekanis (Mechanical Editing)
+Penyuntingan yang berfokus pada kebenaran teknis tata bahasa dan format visual teks.
+•	Ejaan dan Tanda Baca: Memeriksa penggunaan huruf kapital, cetak miring, koma, titik, tanda hubung, dan tanda baca lainnya.
+•	Kata Baku: Mengubah kata-kata nonbaku menjadi bentuk baku sesuai KBBI (misalnya mengubah praktek menjadi praktik, atau ijin menjadi izin).
+•	Format dan Gaya Selingkung: Memastikan angka, tanggal, penulisan kutipan, dan istilah asing disajikan seragam.
+
+B. Penyuntingan Bahasa/Substansi Mikro (Copyediting)
+Penyuntingan yang berfokus pada keefektifan dan kelancaran struktur bahasa.
+•	Keefektifan Kalimat: Memperbaiki kalimat yang terlalu panjang (run-on sentences), memotong kata-kata redundan (kehematan kata), dan menjaga keparalelan bentuk.
+•	Pilihan Kata (Diksi): Mengganti kata yang kurang tepat, klise, atau berkonotasi keliru agar sesuai dengan konteks naskah.
+•	Kejelasan Subjek dan Predikat: Memastikan setiap kalimat memiliki kelengkapan struktur dasar sehingga tidak menggantung.
+
+C. Penyuntingan Struktural/Substansi Makro (Substantive/Developmental Editing)
+Penyuntingan tingkat lanjut yang menyentuh alur penalaran dan organisasi isi naskah.
+•	Kepaduan Paragraf (Kohesi dan Koherensi): Menyusun ulang urutan kalimat atau paragraf agar alur pikirannya logis dan runtut.
+•	Transisi Antarbagian: Memastikan perpindahan antarparagraf atau antarbab terjalin secara wajar dan tidak terputus.
+•	Pelesapan Kalimat Sumbang: Menghapus atau memindahkan informasi yang tidak relevan dengan ide pokok paragraf.
+
+3. Aspek-Aspek Kunci yang Diperiksa Saat Menyunting
+Seorang penyunting bahasa harus memperhatikan aspek-aspek utama berikut secara cermat:
+1. Ejaan dan Tipografi
+•	Penggunaan huruf kapital pada nama diri, gelar, lembaga, dan geografi.
+•	Penggunaan huruf miring untuk kata asing, istilah daerah, atau judul karya yang dikutip.
+•	Penulisan gabungan kata (kata majemuk), kata berimbuhan, dan kata depan (di/ke sebagai kata depan dipisah, sedangkan di-/ke- sebagai awalan disambung).
+
+2. Tanda Baca
+•	Ketepatan penggunaan koma (seperti sebelum konjungsi pertentangan, setelah konjungsi antarkalimat, atau pada perincian lebih dari dua hal).
+•	Penggunaan titik dua, tanda petik, dan tanda hubung yang tepat.
+
+3. Tata Bahasa dan Diksi
+•	Penggunaan Imbuhan Eksplisit: Memastikan imbuhan digunakan secara utuh (misalnya menganalisis, bukan menganalisa atau nganalisis).
+•	Ketepatan Diksi: Memilih kata yang bermakna denotatif dan tepat secara akademis/formal.
+
+4. Struktur Kalimat
+•	Menghindari preposisi di awal subjek (seperti Untuk pembahasan ini menjelaskan... diubah menjadi Pembahasan ini menjelaskan...).
+•	Menghindari subjek ganda dan predikat yang didahului kata yang.
+•	Memastikan kesejajaran bentuk kata pada rangkaian rincian.
+
+4. Tahapan dan Langkah-Langkah Penyuntingan
+Agar proses penyuntingan berjalan efektif, langkah-langkah berikut umumnya diterapkan:
+•	Membaca Naskah Secara Utuh (Membaca Awal): Membaca teks secara keseluruhan untuk memahami topik, gaya bahasa, dan konteks naskah secara umum tanpa langsung mengubah teks.
+•	Penyuntingan Tahap Pertama (Substansi dan Alur): Memeriksa kelogisan alur pikiran, kerapian paragraf, serta kejelasan gagasan dari bab ke bab.
+•	Penyuntingan Tahap Kedua (Mekanis dan Kebahasaan): Memeriksa baris demi baris secara mendalam untuk membetulkan ejaan, tanda baca, pilihan kata, dan struktur kalimat.
+•	Membaca Ulang Akhir (Proofreading Final): Membaca kembali naskah yang telah disunting untuk memastikan tidak ada kesalahan ketik (typo) yang tertinggal serta memastikan alur naskah terasa alami saat dibaca.
+
+Contoh Perbaikan Penyuntingan Bahasa
+Contoh 1 (Pelesapan Preposisi Pengganggu Subjek)
+•	Sebelum Disunting: Di dalam penelitian ini menunjukkan bahwa penggunaan metode baru sangat efektif sekali.
+•	Setelah Disunting: Penelitian ini menunjukkan bahwa penggunaan metode baru sangat efektif. (Alasan: Menghapus preposisi "Di dalam" agar subjek jelas, serta menghapus "sekali" untuk kehematan kata).
+
+Contoh 2 (Keparalelan Bentuk Rincian)
+•	Sebelum Disunting: Kegiatan ini meliputi perencanaan, pelaksanaan, dan kita mengevaluasi program.
+•	Setelah Disunting: Kegiatan ini meliputi perencanaan, pelaksanaan, dan pengevaluasian program. (Alasan: Mengubah klausa "kita mengevaluasi" menjadi nomina "pengevaluasian" agar sejajar dengan kata perencanaan dan pelaksanaan).
+
+Contoh 3 (Pembenahan Ejaan dan Kata Baku)
+•	Sebelum Disunting: Apotik itu belum memberi ijin untuk praktek analisa laboratorium.
+•	Setelah Disunting: Apotek itu belum memberi izin untuk praktik analisis laboratorium. (Alasan: Mengubah kata-kata tidak baku menjadi kata baku sesuai KBBI).
+

@@ -1,0 +1,95 @@
+
+Morfologi merupakan cabang ilmu bahasa (linguistik) yang mempelajari struktur internal kata, bentuk-bentuk kata, serta proses perubahan bentuk kata yang memengaruhi makna gramatikalnya.
+
+1. Hakikat Morfologi & Satuan Gramatikal
+Secara etimologi, morfologi berasal dari kata morphē (bentuk) dan logos (ilmu). Dalam linguistik, morfologi berfokus pada morfem dan kata.
+A. Morfem
+Morfem adalah satuan bahasa terkecil yang memiliki makna (baik makna leksikal maupun gramatikal) dan tidak dapat dibagi lagi menjadi satuan yang lebih kecil tanpa mengubah atau merusak maknanya.
+Morfem diklasifikasikan menjadi dua jenis utama:
+	Morfem Bebas: Morfem yang secara intuitif dapat berdiri sendiri sebagai kata tunggal dalam kalimat dan langsung memiliki makna leksikal. Contoh: makan, rumah, buku, pergi.
+	Morfem Terikat: Morfem yang tidak dapat berdiri sendiri dan baru memiliki makna atau fungsi gramatikal jika digabungkan dengan morfem lain. Contoh: afiks/imbuhan seperti ber-, me-, -an, serta bentuk terikat seperti anti-, pascah-, manca-.
+
+B. Kata
+Kata adalah satuan bahasa bebas terkecil yang terdiri atas satu morfem bebas atau gabungan antara morfem bebas dan morfem terikat, serta memiliki fungsi tertentu dalam kalimat.
+
+2. Proses Morfologis (Pembentukan Kata)
+Proses morfologis adalah pembentukan kata baru dari kata dasar atau morfem dasar melalui berbagai mekanisme dalam tata bahasa Indonesia.
+A. Afiksasi (Pengimbuhan)
+Afiksasi adalah proses melekatkan afiks (imbuhan) pada kata dasar. Jenis-jenis afiks dalam bahasa Indonesia meliputi:
+	Prefiks (Awalan): Imbuhan yang dilekatkan di awal kata dasar.
+	Bentuk: me-, ber-, di-, ter-, pe-, se-, ke-, per-.
+	Contoh: me- + tulis → menulis.
+	Sufiks (Akhiran): Imbuhan yang dilekatkan di akhir kata dasar.
+	Bentuk: -an, -kan, -i.
+	Contoh: makan + -an → makanan; baca + -an → bacaan.
+	Infiks (Sisipan): Imbuhan yang disisipkan di dalam kata dasar (biasanya di balik konsonan pertama). Jumlah infiks dalam bahasa Indonesia terbatas dan umumnya tidak produktif lagi.
+	Bentuk: -el-, -em-, -er-.
+	Contoh: gigi + -el- → geligi; tali + -em- → temali; gigi + -er- → gerigi.
+	Konfiks (Imbuhan Gabung Terbagi): Gabungan awalan dan akhiran yang melekat secara bersama-sama pada kata dasar sebagai satu kesatuan fungsi morfologis.
+	Bentuk: ke-...-an, pe-...-an, per-...-an, ber-...-an.
+	Contoh: ke- + pimpin + -an → kepemimpinan; pe- + buat + -an → pembuatan.
+	Simulfiks (Kombinasi Afiks): Penggunaan dua imbuhan atau lebih yang tidak terjadi sekaligus, melainkan bertahap (bukan konfiks tunggal).
+	Contoh: Kata dasar ajar mendapat prefiks ber- menjadi belajar, kemudian mendapat prefiks me- menjadi mempelajari.
+
+B. Reduplikasi (Pengulangan)
+Reduplikasi adalah proses pengulangan kata dasar, baik seluruhnya, sebagian, maupun dengan perubahan bunyi.
+	Pengulangan Utuh (Dwilingga): Mengulang seluruh bentuk dasar.
+	Contoh: rumah → rumah-rumah; buku → buku-buku.
+	Pengulangan Sebagian (Dwidarma/Dwipurwa): Mengulang suku kata pertama dari kata dasar.
+	Contoh: tangga → tetangga; pohon → pepohonan; laki → lelaki.
+	Pengulangan Berimbuhan: Mengulang kata dasar disertai penambahan afiks.
+	Contoh: berjalan-jalan, melihat-lihat, anak-anakan.
+	Pengulangan Salin Swara (Variasi Bunyi): Pengulangan yang disertai perubahan vokal atau konsonan.
+	Contoh: bolak-balik, sayur-mayur, serta-merta, lauk-pauk.
+
+C. Komposisi (Penggabungan Kata)
+Komposisi adalah proses penggabungan dua kata dasar atau lebih yang menghasilkan satu kesatuan kata baru dengan makna gramatikal baru (sering disebut kata majemuk).
+	Ciri-ciri: Unsur-unsurnya tidak dapat dipisahkan atau disisipi kata lain tanpa merusak maknanya.
+	Contoh:
+	rumah + sakit → rumah sakit (tidak bisa disisipi menjadi "rumah yang sakit").
+	kaca + mata → kacamata.
+	meja + hijau → meja hijau (bermakna pengadilan).
+
+D. Abreviasi (Pemendekan)
+Abreviasi adalah proses penanggalan satu atau beberapa bagian kata atau kombinasi kata sehingga membentuk kata baru yang lebih pendek.
+	Singkatan: Hasil pemendekan yang diucapkan huruf demi huruf.
+	Contoh: SD (Sekolah Dasar), DPR (Dewan Perwakilan Rakyat), KTP (Kartu Tanda Penduduk).
+	Akronim: Hasil pemendekan berupa gabungan huruf atau suku kata yang diucapkan sebagai kata baku.
+	Contoh: Puskesmas (Pusat Kesehatan Masyarakat), Pemilu (Pemilihan Umum), Rudal (Peluru Kendali).
+	Penggalan: Pemendekan dengan mengeliminasi sebagian suku kata dari bentuk asalnya.
+	Contoh: Prof (Profesor), Dok (Dokter), Lab (Laboratorium).
+
+3. Kelas Kata dalam Bahasa Indonesia
+Kata-kata yang terbentuk dari proses morfologis dikategorikan ke dalam beberapa kelompok kelas kata utama:
+	Verba (Kata Kerja): Kata yang mengacu pada tindakan, proses, atau keadaan yang bukan merupakan sifat.
+	Contoh: berlari, menulis, membaca, dimakan, memikirkan.
+	Nomina (Kata Benda): Kata yang mengacu pada manusia, hewan, benda, serta konsep atau pengertian abstrak.
+	Contoh: meja, keadilan, kebebasan, pimpinan, mahasiswa.
+	Adjektiva (Kata Sifat): Kata yang menjelaskan atau mengubah makna nomina agar lebih spesifik (menerangkan kondisi/sifat).
+	Contoh: tinggi, indah, cantik, bersih, sangat luas.
+	Adverbia (Kata Keterangan): Kata yang memberi keterangan pada verba, adjektiva, atau keseluruhan kalimat.
+	Contoh: sangat, selalu, kemarin, dengan cepat, agak.
+	Pronomina (Kata Ganti): Kata yang digunakan untuk menggantikan nomina atau frasa nomina.
+	Contoh: saya, kamu, mereka, ini, itu, siapa.
+	Kata Tugas (Penumbal/Fungsional): Kelompok kata yang tidak mengalami proses morfologis kompleks (umumnya berupa morfem bebas) dan berfungsi menghubungkan kata atau kalimat.
+	Preposisi (Kata Depan): di, ke, dari, pada.
+	Konjungsi (Kata Hubung): dan, atau, tetapi, karena, sehingga.
+	Interjeksi (Kata Seru): wah, aduh, oh.
+	Artikula (Kata Sandang): si, sang.
+
+4. Perubahan Makna Gramatikal akibat Proses Morfologis
+Proses morfologis menciptakan makna gramatikal, yaitu makna yang timbul akibat terjadinya proses pembentukan kata (berbeda dengan makna leksikal yang berada di dalam kamus).
+	Makna Prefiks me-:
+	Melakukan tindakan: menulis, membaca.
+	Menjadi atau menuju kondisi: memerah, meninggi.
+	Makna Sufiks -an:
+	Hasil tindakan: tulisan, karangan.
+	Alat/instrumen: timbangan, pakaian.
+	Kumpulan/banyak: lautan, pepohonan.
+	Makna Konfiks pe-...-an:
+	Proses atau perbuatan: pembentukan, pembangunan.
+	Tempat: pemandian, penangkaran.
+	Makna Reduplikasi Utuh:
+	Jamak atau banyak: anak-anak, buku-buku.
+	Keserupaan/kemiripan: kuda-kudaan, mobil-mobilan.
+

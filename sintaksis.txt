@@ -1,0 +1,92 @@
+Sintaksis merupakan cabang ilmu bahasa (linguistik) yang mempelajari hubungan antarkata, pembentukan kelompok kata, serta tata susunan satuan-satuan tersebut hingga membentuk kalimat yang utuh dan bermakna. Sintaksis berfokus pada tiga satuan gramatikal utama: frasa, klausa, dan kalimat.
+
+1. Frasa
+Frasa adalah satuan gramatikal yang terdiri atas dua kata atau lebih yang bersifat nonpredikatif (tidak mengandung hubungan Subjek dan Predikat) serta menduduki satu fungsi sintaksis dalam kalimat (seperti Subjek, Predikat, Objek, atau Keterangan).
+A. Ciri-Ciri Frasa
+•	Terdiri atas sekurang-kurangnya dua kata.
+•	Tidak memiliki hubungan predikatif (tidak ada Subjek-Predikat).
+•	Selalu menduduki satu posisi fungsi dalam kalimat.
+•	Maknanya bersifat gramatikal atau menunjuk pada satu kesatuan konsep.
+
+B. Jenis Frasa Berdasarkan Distribusi Unsur Pembentuknya
+•	Frasa Eksosentris: Frasa yang tidak memiliki inti (distribusinya tidak sama dengan salah satu unsurnya). Biasanya terdiri dari kata depan (preposisi) dan kata benda/keterangan tempat.
+o	Contoh: di kampus, ke Medan, dari Jakarta. (Kata "di" atau "kampus" saja tidak dapat menggantikan fungsi frasa "di kampus" secara utuh).
+•	Frasa Endosentris: Frasa yang memiliki unsur inti (head) dan unsur penjelas (modifier). Distribusi frasa ini dapat digantikan oleh unsur intinya.
+o	Frasa Endosentris Atributif: Terdiri dari inti dan penjelas.
+	Contoh: buku baru (inti: buku, penjelas: baru).
+o	Frasa Endosentris Koordinatif: Terdiri dari unsur-unsur yang setara dan dihubungkan dengan kata hubung.
+	Contoh: suami istri, tua muda, pria dan wanita.
+o	Frasa Endosentris Apositif: Unsur penjelasnya berfungsi menggantikan atau memberi keterangan tambahan bagi unsur inti.
+	Contoh: Jokowi, Presiden RI, menghadiri rapat. (Presiden RI adalah keterangan apositif dari Jokowi).
+
+C. Jenis Frasa Berdasarkan Kelas Kata Intinya
+•	Frasa Nomina: Intinya berupa kata benda. (Contoh: kemeja putih, rumah besar).
+•	Frasa Verba: Intinya berupa kata kerja. (Contoh: sedang makan, akan pergi).
+•	Frasa Adjektiva: Intinya berupa kata sifat. (Contoh: sangat cantik, agak lambat).
+•	Frasa Numeralia: Intinya berupa kata bilangan. (Contoh: dua ekor, tiga buah).
+•	Frasa Preposisional: diawali oleh kata depan. (Contoh: di rumah, dengan sepeda).
+
+2. Klausa
+Klausa adalah satuan gramatikal yang terdiri atas dua kata atau lebih dan sekurang-kurangnya memiliki struktur predikatif (Subjek dan Predikat), tetapi belum memiliki intonasi final atau tanda baca akhir sehingga belum menjadi kalimat utuh.
+A. Ciri-Ciri Klausa
+•	Memiliki hubungan predikatif (minimal mengandung Subjek dan Predikat).
+•	Tidak memiliki intonasi final (titik, tanda tanya, atau tanda seru) jika berdiri sendiri dalam teks tulisan.
+•	Merupakan bagian pembentuk kalimat majemuk.
+
+B. Jenis Klausa Berdasarkan Kedudukannya
+•	Klausa Bebas (Klausa Utama / Induk Kalimat): Klausa yang berpotensi menjadi kalimat sempurna karena memiliki struktur utuh dan dapat berdiri sendiri jika diberi intonasi final.
+o	Contoh: Ayah membaca koran (dalam kalimat: Ayah membaca koran ketika ibu memasak).
+•	Klausa Terikat (Klausa Bawahan / Anak Kalimat): Klausa yang tidak dapat berdiri sendiri sebagai kalimat sempurna karena diawali oleh konjungsi subordinatif.
+o	Contoh: ketika ibu memasak (dalam kalimat: Ayah membaca koran ketika ibu memasak).
+
+C. Jenis Klausa Berdasarkan Predikatnya
+•	Klausa Verbal: Predikatnya berupa kata kerja. (Contoh: Adik menangis).
+•	Klausa Nominal: Predikatnya berupa kata benda. (Contoh: Ayahnya dokter).
+•	Klausa Adjektival: Predikatnya berupa kata sifat. (Contoh: Pemandangan itu indah).
+•	Klausa Numeral: Predikatnya berupa kata bilangan. (Contoh: Uangnya sepuluh ribu).
+•	Klausa Preposisional: Predikatnya berupa frasa depan. (Contoh: Ibu ke pasar).
+
+3. Kalimat
+Kalimat adalah satuan bahasa terkecil yang mengungkapkan pikiran yang utuh, baik secara lisan maupun tulisan. Dalam wujud lisan, kalimat ditandai dengan alunan intonasi, nada, dan jeda. Dalam wujud tulisan, kalimat diawali dengan huruf kapital dan diakhiri dengan tanda baca final (titik, tanda tanya, atau tanda seru).
+A. Unsur-Unsur Kalimat (Fungsi Sintaksis)
+•	Subjek (S): Pokok pembicaraan atau pelaku utama dalam kalimat. Mengindikasikan jawaban atas pertanyaan apa atau siapa.
+•	Predikat (P): Unsur yang menerangkan tindakan, kondisi, atau keberadaan Subjek. Mengindikasikan jawaban atas pertanyaan mengapa atau bagaimana.
+•	Objek (O): Unsur yang dikenai tindakan oleh Predikat (khusus verba transitif). Objek dapat berubah menjadi Subjek pada kalimat pasif.
+•	Pelengkap (Pel): Unsur yang melengkapi makna Predikat (pada verba intransitif/semitransitif). Berbeda dengan Objek, Pelengkap tidak dapat diubah menjadi Subjek pada kalimat pasif.
+•	Keterangan (K): Unsur yang memberikan informasi tambahan mengenai waktu, tempat, cara, tujuan, atau kondisi terjadinya peristiwa.
+
+B. Klasifikasi Kalimat Berdasarkan Jumlah Klausa (Struktur)
+•	Kalimat Tunggal: Kalimat yang hanya terdiri atas satu klausa (satu struktur S-P).
+o	Contoh: Dosen mengajar mahasiswa di ruang kuliah. (S: Dosen, P: mengajar, O: mahasiswa, K: di ruang kuliah).
+•	Kalimat Majemuk Setara: Kalimat yang terdiri atas dua klausa bebas atau lebih yang dihubungkan oleh konjungsi koordinatif (dan, atau, tetapi). Kedudukan tiap klausa sejajar.
+o	Contoh: Budi membaca buku dan Ani menulis puisi.
+•	Kalimat Majemuk Bertingkat: Kalimat yang terdiri atas satu klausa bebas (induk kalimat) dan sekurang-kurangnya satu klausa terikat (anak kalimat) yang dihubungkan oleh konjungsi subordinatif (ketika, karena, sehingga, jika). Kedudukan antar-klausa tidak sejajar.
+o	Contoh: Kami tidak bisa berolahraga karena hujan turun sangat lebat.
+•	Kalimat Majemuk Campuran: Kombinasi antara kalimat majemuk setara dan kalimat majemuk bertingkat (mengandung minimal tiga klausa).
+o	Contoh: Ayah membaca koran dan ibu memasak ketika adik sedang tidur.
+
+C. Klasifikasi Kalimat Berdasarkan Fungsi Komunikasi (Amanat)
+•	Kalimat Berita (Deklaratif): Berfungsi menyampaikan informasi atau pernyataan. Diakhiri tanda titik (.).
+o	Contoh: Pemerintah menetapkan kebijakan baru.
+•	Kalimat Tanya (Interogatif): Berfungsi meminta informasi atau jawaban dari lawan tutur. Diakhiri tanda tanya (?).
+o	Contoh: Apakah ujian dilaksanakan esok hari?
+•	Kalimat Perintah (Imperatif): Berfungsi memberikan perintah, larangan, ajakan, atau permohonan. Diakhiri tanda seru (!) atau titik.
+o	Contoh: Buka jendela itu sekarang!
+•	Kalimat Seruan (Eksklamatif): Berfungsi mengungkapkan perasaan kagum, heran, atau emosi yang kuat. Diakhiri tanda seru (!).
+o	Contoh: Alangkah indahnya pemandangan alam ini!
+
+D. Kalimat Efektif
+Kalimat efektif adalah kalimat yang mampu menyampaikan gagasan penutur/penulis secara tepat, jelas, dan mudah dipahami oleh pendengar/pembaca tanpa menimbulkan ambiguitas.
+Syarat Utama Kalimat Efektif:
+1.	Kesejajaran (Paralelisme): Kesamaan bentuk kata atau struktur gramatikal yang digunakan.
+o	Tidak Efektif: Kegiatan itu meliputi pencatatan data, pengolahan data, dan menganalisis data.
+o	Efektif: Kegiatan itu meliputi pencatatan data, pengolahan data, dan penganalisisan data.
+2.	Kehematan Kata: Mengeliminasi pemborosan kata yang redundan atau memiliki makna sama.
+o	Tidak Efektif: Para mahasiswa-mahasiswa sangat rajin sekali.
+o	Efektif: Para mahasiswa sangat rajin. / Mahasiswa sangat rajin.
+3.	Kecermatan dan Kejelasan (Kepaduan): Tidak menimbulkan tafsir ganda (ambigu) dan memiliki hubungan S-P yang tegas.
+o	Tidak Efektif: Untuk mengetahui masalah itu harus melakukan penelitian. (Tidak jelas subjeknya).
+o	Efektif: Untuk mengetahui masalah itu, kita harus melakukan penelitian.
+4.	Kelogisan Makna: Kalimat dapat diterima oleh akal sehat sesuai dengan aturan ejaan dan makna bahasa.
+o	Tidak Efektif: Waktu dan tempat kami persilakan. (Tempat tidak bisa dipersilakan).
+o	Efektif: Bapak Rektor kami persilakan.

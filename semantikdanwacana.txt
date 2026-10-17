@@ -1,0 +1,64 @@
+Semantik dan Wacana merupakan dua cabang ilmu bahasa (linguistik) tingkat lanjut yang mengkaji makna serta penggunaan bahasa dalam konteks utuh. Semantik berfokus pada makna tanda bahasa (kata, frasa, kalimat), sedangkan wacana berfokus pada penggunaan bahasa secara utuh dalam konteks situasi dan sosial yang nyata.
+
+1. Semantik (Ilmu Makna)
+Semantik adalah cabang linguistik yang mempelajari makna yang terkandung dalam satuan-satuan bahasa (morfem, kata, frasa, kalimat, hingga paragraf) serta bagaimana makna tersebut terbentuk, berubah, dan ditafsirkan.
+A. Jenis-Jenis Makna
+Makna dalam semantik dikategorikan berdasarkan sudut pandang dan sudut hubungan antar-unsurnya:
+•	Makna Leksikal: Makna dasar atau makna asli suatu kata yang sesuai dengan rujukan unsurnya, bebas dari konteks kalimat (sering disebut makna yang tertera di dalam kamus). Contoh: Kata kucing bermakna hewan menyusui berkaki empat yang mengeong.
+•	Makna Gramatikal: Makna yang timbul akibat proses gramatika atau pembentukan kata (seperti afiksasi, reduplikasi, atau penggabungan kata dalam kalimat). Contoh: Kata makan (leksikal) menjadi makanan (gramatikal: hasil dari perbuatan makan).
+•	Makna Denotatif: Makna lugas, eksplisit, sebanarnya, dan tidak mengandung kiasan atau emosi tambahan. Contoh: Kata tangan kanan bermakna bagian tubuh sebelah kanan.
+•	Makna Konotatif: Makna kiasan, implisat, atau makna tambahan yang mengandung nilai rasa, emosi, dan norma sosial tertentu. Contoh: Kata tangan kanan dalam kalimat "Dia adalah tangan kanan manajer" bermakna orang kepercayaan.
+•	Makna Kontekstual: Makna kata atau kalimat yang muncul akibat posisinya di dalam konteks situasi atau kalimat tertentu. Contoh: Kata kepala dalam kepala sekolah berbeda makna dengan kepala suku atau kepala putik.
+•	Makna Konseptual & Asosiatif: Makna konseptual merujuk pada konsep atau definisi logis, sedangkan makna asosiatif merujuk pada hubungan emosional atau budaya yang menempel pada suatu kata (misalnya kata merah berasosiasi dengan berani atau bahaya).
+
+B. Relasi Makna (Hubungan Antarmakna)
+Relasi makna adalah hubungan kemaknaan antara satu kata/satuan bahasa dengan kata/satuan bahasa lainnya:
+•	Sinonim: Hubungan kemiripan atau kesamaan makna antara dua kata atau lebih. Contoh: baju bersinonim dengan pakaian; melihat bersinonim dengan menonton.
+•	Antonim: Hubungan perlawanan atau pertentangan makna antara dua kata.
+o	Antonim Mutlak: Hidup vs Mati.
+o	Antonim Gradual (Bersetingkat): Panas vs Dingin (ada tingkatan hangat/sejuk).
+o	Antonim Relasional (Hubungan timbal balik): Suami vs Istri; Menerima vs Memberi.
+•	Hiponim dan Hipernim: Hubungan cakupan makna bawah (spesifik) dan makna atas (generik).
+o	Hipernim (Kata Umum): Bunga.
+o	Hiponim (Kata Khusus): Mawar, Melati, Anggrek, Kamboja.
+•	Homonym, Homofon, dan Homograf:
+o	Homonim: Kata yang bentuk ejaan dan bunyinya sama, tetapi maknanya berbeda. Contoh: bisa (sanggup/dapat) dan bisa (racun ular).
+o	Homofon: Kata yang bunyinya sama, tetapi ejaan dan maknanya berbeda. Contoh: bank (lembaga keuangan) dan bang (sebutan kakak laki-laki).
+o	Homograf: Kata yang ejaannya sama, tetapi bunyi (pelafalan) dan maknanya berbeda. Contoh: teras (halaman rumah) dan teras (pejabat/inti).
+•	Polisemi: Satu kata yang memiliki banyak makna yang masih berhubungan secara logis atau memiliki latar belakang konsep yang sama. Contoh: Kata akar (akar pohon, akar masalah, tanda akar dalam matematika).
+•	Ambiguitas: Kegandaan makna yang muncul pada tingkat frasa atau kalimat akibat susunan struktur sintaksis yang tidak jelas. Contoh: Buku sejarah baru (bisa bermakna bukunya yang baru, atau sejarahnya yang baru).
+
+C. Perubahan Makna
+Makna kata dapat mengalami pergeseran atau perubahan seiring berjalannya waktu:
+•	Perluasan Makna (Generalisasi): Makna kata yang dulunya sempit/khusus menjadi lebih luas/umum. Contoh: Kata bapak atau ibu dulunya hanya untuk orang tua kandung, kini digunakan untuk menyapa semua orang laki-laki/perempuan yang lebih tua atau dihormati.
+•	Penyempitan Makna (Spesialisasi): Makna kata yang dulunya luas/umum menjadi lebih sempit/khusus. Contoh: Kata sarjana dulunya bermakna orang pandai/cendekiawan, kini hanya merujuk pada lulusan perguruan tinggi strata satu (S1).
+•	Ameliorasi: Perubahan makna yang membuat suatu kata terasa lebih halus, sopan, atau bernilai positif dari kata sebelumnya. Contoh: Kata tuna netra terasa lebih amelioratif dibanding buta.
+•	Peyorasi: Perubahan makna yang membuat suatu kata terasa lebih kasar, rendah, atau bernilai negatif dibanding kata sebelumnya. Contoh: Kata bunting terasa lebih peyoratif dibanding hamil atau mengandung.
+•	Sinestesia: Perubahan makna akibat pertukaran tanggapan antara dua indra yang berbeda. Contoh: "KATA-katanya sangat PEDAS" (perasaan/pendengaran bertukar dengan indra pengecap).
+•	Asosiasi: Perubahan makna yang terjadi karena persamaan sifat antara dua benda/konsep. Contoh: Kata amplop bermakna uang suap karena bentuknya sama-sama menggunakan wadah pembungkus surat/uang.
+
+2. Wacana (Analisis Wacana)
+Wacana adalah satuan bahasa terbesar, terlengkap, dan tertinggi dalam hierarki gramatikal, yang memiliki kohesi dan koherensi yang utuh, berkesinambungan, serta disampaikan dalam konteks komunikasi tertentu (baik lisan maupun tulisan).
+A. Syarat Utama Wacana
+Sebuah rentetan kalimat dapat dikategorikan sebagai wacana jika memenuhi dua syarat kepaduan utama:
+•	Kohesi (Kepaduan Bentuk): Keterikatan antarunsur dalam wacana yang ditandai oleh perangkat kebahasaan atau sarana leksikal dan gramatikal.
+o	Sarana Kohesi Gramatikal: Referensi/pengacuan (ini, itu, dia), substitusi/penggantian, elipsis/penanggalan, dan konjungsi/kata hubung (selain itu, oleh karena itu).
+o	Sarana Kohesi Leksikal: Repetisi/pengulangan kata, sinonim, antonim, dan hiponim.
+•	Koherensi (Kepaduan Makna): Keterikatan isi atau keterpaduan gagasan antar-kalimat/paragraf dalam wacana sehingga pesan yang disampaikan logis, runtut, dan mudah dipahami. Wacana dapat memiliki koherensi yang baik meskipun tanpa sarana penanda kohesi yang eksplisit.
+
+B. Jenis-Jenis Wacana
+Wacana dikelompokkan berdasarkan tujuan penyampaian atau pola penyusunannya:
+•	Wacana Narasi: Wacana yang menceritakan rangkaian peristiwa atau kejadian secara kronologis (berdasarkan urutan waktu). Contoh: Novel, cerpen, autobiografi.
+•	Wacana Deskripsi: Wacana yang menggambarkan suatu objek, tempat, atau suasana secara rinci menggunakan pancaindra sehingga pembaca seolah-olah melihat atau merasakannya sendiri.
+•	Wacana Eksposisi: Wacana yang bertujuan menjelaskan, memaparkan, atau memberikan informasi dan pengetahuan kepada pembaca tanpa memengaruhi pendapatnya. Contoh: Artikel ilmiah, petunjuk penggunaan produk.
+•	Wacana Argumentasi: Wacana yang bertujuan meyakinkan atau membuktikan kebenaran suatu pendapat/gagasan dengan menyertakan alasan, bukti, data, dan fakta yang kuat.
+•	Wacana Persuasi: Wacana yang bertujuan memengaruhi, membujuk, atau mengajak pembaca/pendengar agar melakukan suatu tindakan tertentu. Contoh: Iklan, pidato politik, imbauan kesehatan.
+
+C. Konteks dalam Wacana
+Wacana tidak diproduksi dalam ruang hampa. Pemahaman wacana secara utuh memerlukan pemahaman tentang konteks:
+•	Konteks Linguistik (Teks/Ko-teks): Hubungan antara kalimat atau unsur bahasa sebelum dan sesudah kalimat yang sedang dianalisis.
+•	Konteks Ekstralingual (Luar Bahasa):
+o	Konteks Situasi: Waktu, tempat, dan suasana saat wacana tutur atau tulisan itu diproduksi.
+o	Konteks Sosial-Budaya: Latar belakang status sosial, aturan, nilai, norma, norma kesantunan, serta budaya penutur dan petutur.
+•	Pragmatik dalam Wacana: Wacana juga berkaitan erat dengan pragmatik (maksud penutur), yang mencakup analisis implikatur (maksud tersirat), andaian/presuposisi, serta tindak tutur (speech acts) seperti lokusi, ilokusi, dan perlokusi dalam suatu tuturan.
+
